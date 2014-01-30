@@ -16,27 +16,26 @@
         android:gravity="center"
         android:text="@string/label_titulo_comparativo"
         android:textAppearance="?android:attr/textAppearanceLarge" />
-    
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal" >
-        
-	        <TextView
-	            android:id="@+id/textViewCarro1Comparativo"
-	            android:layout_height="wrap_content"
-	            android:layout_width="0dp"
-	            android:layout_weight="1"
-	            android:text="@string/label_carro_1_comparativo"
-	            android:textAppearance="?android:attr/textAppearanceMedium" />
 
-	        <CheckBox
-	            android:id="@+id/checkBoxMeuCarroComparativo"
-	            android:layout_width="wrap_content"
-	            android:layout_height="wrap_content"
-	            android:text="@string/label_checkbox_meu_carro_comparativo" />
-	        
-   	</LinearLayout>
+        <TextView
+            android:id="@+id/textViewCarro1Comparativo"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/label_carro_1_comparativo"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <CheckBox
+            android:id="@+id/checkBoxMeuCarroComparativo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/label_checkbox_meu_carro_comparativo" />
+    </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -54,10 +53,9 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:entries="@array/string_array_marcas_comparativo" />
-        
+            android:spinnerMode="dialog" />
     </LinearLayout>
-    
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -74,10 +72,9 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:entries="@array/string_array_modelos_chevrolet_comparativo" />
-        
+            android:spinnerMode="dialog" />
     </LinearLayout>
-    
+
     <TextView
         android:id="@+id/textViewCarro2Comparativo"
         android:layout_width="wrap_content"
@@ -101,10 +98,9 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:entries="@array/string_array_marcas_comparativo" />
-        
+            android:spinnerMode="dialog" />
     </LinearLayout>
-    
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -121,8 +117,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:entries="@array/string_array_modelos_chevrolet_comparativo" />
-        
+            android:spinnerMode="dialog" />
     </LinearLayout>
 
     <Button

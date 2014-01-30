@@ -33,7 +33,7 @@
     <!----><string name="label_carro_2_comparativo">Carro 2</string>
     <!----><string name="label_button_1_comparativo">Comparar</string>
     <!----><string name="label_tipo_spinner_marcas_comparativo">Marcas: </string>
-    <!----><string name="label_tipo_spinner_modelos_comparativo">Modelos: </string>
+    <!----><string name="label_tipo_spinner_modelos_comparativo">Modelos / Ano: </string>
     <!----><string name="label_checkbox_meu_carro_comparativo">Meu Carro</string>
     <!----><string name="label_spinner_prompt_comparativo">Selecione</string>
     <!----><string-array name="string_array_marcas_comparativo">
@@ -43,16 +43,16 @@
     <!---->    <item>Ford</item>
     <!----></string-array>
     <!----><string-array name="string_array_modelos_chevrolet_comparativo">
-    <!---->    <item>Celta</item>
+    <!---->    <item>Sonic Effect 1.6 16V AT6 / 2014</item>
     <!----></string-array>
     <!----><string-array name="string_array_modelos_volkswagen_comparativo">
-    <!---->    <item>Gol</item>
+    <!---->    <item>Gol Highline 1.6 / 2014</item>
     <!----></string-array>
     <!----><string-array name="string_array_modelos_fiat_comparativo">
-    <!---->    <item>Palio</item>
+    <!---->    <item>Idea Essence 1.6 16V / 2014</item>
     <!----></string-array>
     <!---->    <string-array name="string_array_modelos_ford_comparativo">
-    <!---->    <item>Fiesta</item>
+    <!---->    <item>Fiesta Titanium 1.6 16V Powershift / 2014</item>
     <!----></string-array>
     <!-- #################################### -->
 
