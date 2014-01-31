@@ -102,15 +102,16 @@
         <!--  -->
     </string-array>
     <!-- #################################### -->
-	
-	
-	<!-- ### Strings da Activity "AtualizaKm" -->
-    <string name="title_activity_atualiza_km">AtualizaKmActivity</string>
-    <string name="label_titulo_atualiza_km">Atualizar km</string>
-    <string name="label_ultima_km_atualiza_km">Última km:</string>
-    <string name="label_atual_km_atualiza_km">Atual km:</string>
-    <string name="label_button_atualiza_km">Atualizar</string>
+
+    <string name="title_activity_cadastrar">Cadastrar</string>
     
-    
+    <!-- ### Strings da Activity "Cadastrar" -->
+    <!--  -->
+    <string name="label_titulo_cadastrar">Selecione seu carro</string>
+    <string name="label_marcas_cadastrar">Marcas:</string>
+    <string name="label_modelos_cadastrar">Modelos:</string>
+    <string name="label_button1_cadastrar">Cadastrar</string>
+    <string name="label_km_cadastrar">Quilometragem:</string>
+    <!-- ################################# -->
 
 </resources>
