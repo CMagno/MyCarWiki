@@ -39,8 +39,8 @@
     <!----><string-array name="string_array_marcas_comparativo">
     <!---->    <item>Chevrolet</item>
     <!---->    <item>Fiat</item>
-    <!---->    <item>Volkswagen</item>
     <!---->    <item>Ford</item>
+    <!---->    <item>Volkswagen</item>
     <!----></string-array>
     <!----><string-array name="string_array_modelos_chevrolet_comparativo">
     <!---->    <item>Sonic Effect 1.6 16V AT6 / 2014</item>
